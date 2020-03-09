@@ -22,3 +22,7 @@ body{
 .servicos{
     background-color: lightskyblue;
 }
+.bg-footer{
+    background-color: black;
+    color: aqua;
+}
